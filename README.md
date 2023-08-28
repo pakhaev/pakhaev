@@ -32,3 +32,21 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - :telescope: I work as a software engineer and am involved in building iOS apps.
 - :zap: In my spare time, I work on my pet projects and read technical articles.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-khusein-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/khusein-pakhaev-85b84327a/")
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/354265/realm.svg" title="Realm" alt="Realm" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/7774181?s=280&v=4" title="Alamofire" alt="Alamofire" width="40" height="40"/>&nbsp;
+    <img src="https://icons.veryicon.com/png/o/education-technology/internet-blue-line-icon/api-interface.png" title="API" alt="API" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+</div>
+
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pakhaev&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pakhaev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
