@@ -33,7 +33,10 @@
 I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I work as a software engineer and am involved in building iOS apps.
 - :zap: In my spare time, I work on my pet projects and read technical articles.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-khusein-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/khusein-pakhaev-85b84327a/")
+- :mailbox: How to reach me: 
+<a href="https://www.linkedin.com/in/khusein-pakhaev-85b84327a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
